@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mk051\\Desktop\\Cpp\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{854524A2-FE59-441E-874B-F599EEBEE94B}|Program\\Program.vcxproj|C:\\Users\\mk051\\Desktop\\Cpp\\Program\\Program\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{854524A2-FE59-441E-874B-F599EEBEE94B}|Program\\Program.vcxproj|solutionrelative:Program\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\mk051\\Desktop\\Cpp\\Program\\Program\\source.cpp",
+              "RelativeDocumentMoniker": "Program\\source.cpp",
+              "ToolTip": "C:\\Users\\mk051\\Desktop\\Cpp\\Program\\Program\\source.cpp",
+              "RelativeToolTip": "Program\\source.cpp",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowFoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T11:16:59.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
