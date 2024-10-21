@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program\Program.vcxproj", "{854524A2-FE59-441E-874B-F599EEBEE94B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Shallow Copy & Deep Copy)", "Class4th (Shallow Copy & Deep Copy)\Class4th (Shallow Copy & Deep Copy).vcxproj", "{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (Inheritance)", "Class5th (Inheritance)\Class5th (Inheritance).vcxproj", "{D3D7018E-475C-415B-92DE-E72316630DBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{854524A2-FE59-441E-874B-F599EEBEE94B}.Release|x64.Build.0 = Release|x64
 		{854524A2-FE59-441E-874B-F599EEBEE94B}.Release|x86.ActiveCfg = Release|Win32
 		{854524A2-FE59-441E-874B-F599EEBEE94B}.Release|x86.Build.0 = Release|Win32
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Debug|x64.ActiveCfg = Debug|x64
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Debug|x64.Build.0 = Debug|x64
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Debug|x86.Build.0 = Debug|Win32
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Release|x64.ActiveCfg = Release|x64
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Release|x64.Build.0 = Release|x64
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Release|x86.ActiveCfg = Release|Win32
+		{FA73FBD0-FF71-40CC-AB24-66A940CF22AE}.Release|x86.Build.0 = Release|Win32
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Debug|x64.ActiveCfg = Debug|x64
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Debug|x64.Build.0 = Debug|x64
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Debug|x86.Build.0 = Debug|Win32
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Release|x64.ActiveCfg = Release|x64
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Release|x64.Build.0 = Release|x64
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Release|x86.ActiveCfg = Release|Win32
+		{D3D7018E-475C-415B-92DE-E72316630DBF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
